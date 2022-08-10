@@ -35,7 +35,7 @@ git checkout try-upgrade-gradle
 cd ..
 git clone https://github.com/hanslovsky/IJava.git
 cd IJava/
-git checkout hanslovsky/gradle-7.4.2
+git checkout gradle-7.4.2
 ./gradlew installKernel
 ```
 
